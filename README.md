@@ -11,6 +11,7 @@ Project objective:
 Purpose of sales & finance analytics:
 1. Empower businesses to monitor and evaluate their sales activities and performance.
 2. Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+3. Analyze financial metrics such as Net Sales, COGS (Cost of Goods Sold), Gross Margin, and GM% (Gross Margin Percentage) on a monthly, quarterly, and annual basis for the fiscal year
 
 Importance of analyzing sales & finance data:
 1. Identify sales patterns and track key performance indicators (KPIs).
