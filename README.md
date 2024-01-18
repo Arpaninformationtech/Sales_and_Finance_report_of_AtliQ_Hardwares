@@ -22,12 +22,28 @@ Role of sales & finance reports:
 
 🧰Technical & Soft Skills:
 
-💡Proficiency in ETL methodology (Extract, Transform, Load).
-💡Skills to generate a date table using Power Query.
-💡Ability to derive fiscal months and quarters.
-💡Establishing data model relationships with Power Pivot.
-💡Proficiency in incorporating supplementary data into an existing data model.
-💡Utilizing DAX to create calculated columns.
+Basic Formulas 🔢 
+
+🔹 SUM,AVERAGE,COUNT
+🔹 SUMIF,AVERAGEIF,COUNTIF (with specific conditions) 
+🔹 Vlookup,Xlookup,Index and Match(for Data Retrieval) 
+
+Business Math & Statistics Formulas 🔣 
+
+🔹 Mean,Median, Mode,Variance,Standard Deviation,Correlation
+
+Data Transformation( using Power Query) 🔀 
+
+🔹 Cleaning & Merging
+🔹 Adding new Columns
+🔹 Distinct and Unique values(to find Duplicates) 
+🔹 Loading Power Query to Data Excel
+
+Creating Business Reports with Pivot Table & Power Pivot 📈 
+
+🔹 Pivot Table - Summarize and Analyze from a single table
+
+🔹 Power Pivot - Advanced tool that allows for more complex data modelling and analysis, especially when dealing with multiple tables and large datasets. It leverages DAX measures and enables the creation of new calculated columns, enhancing analytical capabilities in Excel.
 
 🧰Soft Skills:
 
